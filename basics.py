@@ -80,11 +80,6 @@ print(state.get_value())
 print("")
 
 
-# Using random numbers
-print("Using random numbers:")
-
-
-
 
 
 
